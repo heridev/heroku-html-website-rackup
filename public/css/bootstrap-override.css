@@ -1,0 +1,27 @@
+.jumbotron{
+  background: none;
+  text-align: center;
+}
+.carousel-control.left {
+  background: none;
+  top: 53px;
+  color: black;
+  opacity: .5;
+  filter: alpha(opacity=0);
+  text-shadow: none;
+}
+.carousel-control {
+  left: -70px;
+}
+.col-md-5{
+  padding: 0px;
+  margin: 0px;
+}
+.col-md-7{
+  float: left;
+  width: 58.333333333333336%;
+}
+.col-md-5{
+  float: left;
+  width: 41.6%;
+}
